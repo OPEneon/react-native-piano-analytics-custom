@@ -41,6 +41,16 @@
     "ios",
     "android"
   ],
+  "repository": "https://github.com/OPEneon/react-native-piano-analytics-custom",
+  "author": "OPEneon <oskar.przydatek@eneon.agency>)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OPEneon/react-native-piano-analytics-custom/issues"
+  },
+  "homepage": "https://github.com/OPEneon/react-native-piano-analytics-custom/blob/main/README.md",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
     "@commitlint/config-conventional": "^19.5.0",
     "@evilmartians/lefthook": "^1.8.2",
